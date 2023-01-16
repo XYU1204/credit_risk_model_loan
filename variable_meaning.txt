@@ -1,0 +1,12 @@
+loan_amnt: The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+int_rate: Interest Rate on the loan
+annual_inc: The self-reported annual income provided by the borrower during registration.
+dti: A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
+pub_rec: Number of derogatory public records
+revol_bal: Total credit revolving balance
+all_util: Balance to credit limit on all trades
+mort_acc: Number of mortgage accounts.
+mths_since_recent_bc: Months since most recent bankcard account opened.
+mths_since_recent_inq: Months since most recent inquiry.
+mths_since_last_credit_pull_d: Month since the most recent credit pull.
+mths_credit_history: months of credit history
